@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.form-input {
+    margin: 5px;
+    padding: 8px;
+}
+
+.box-menu {
+    text-align: center;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.pagination {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.pagination a {
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 5px;
+    border: 1px solid #ddd;
+    color: #333;
+}
+
+.pagination a.active {
+    background-color: #4CAF50;
+    color: white;
+}
